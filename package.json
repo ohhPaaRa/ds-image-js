@@ -1,0 +1,13 @@
+{
+  "name": "hackaton",
+  "version": "1.0.0",
+  "description": "*",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "firebase": "firebase"
+  },
+  "devDependencies": {
+    "firebase-tools": "^6.4.0"
+  }
+}
